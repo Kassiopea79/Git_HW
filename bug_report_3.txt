@@ -1,0 +1,9 @@
+Title: "Login button is not working on main page"  
+Steps to Reproduce:  
+1. Open the website main page.  
+2. Enter valid username and password.  
+3. Click on the "Login" button.  
+Expected Result:  
+User should be redirected to the dashboard page.  
+Actual Result:  
+Nothing happens after clicking "Login".  
