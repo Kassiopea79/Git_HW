@@ -1,1 +1,9 @@
 This is my first bug report
+Title: "Incorrect User's redirection"
+Description: the user is being redirected to the end of the course instead of the first lesson's page"
+Steps:
+1. Login as User LEarner with the access to the Course in not started status
+2. Open the Course tile
+
+Expected result: user is redirected to the first lesson
+Actual result: User is redrected to the last page of the course
