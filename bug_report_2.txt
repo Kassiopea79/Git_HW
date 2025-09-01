@@ -1,0 +1,10 @@
+This is my second bug report
+Title: "Incorrect Course status change"
+Description: the course status is changed to "completed" without meeting all complation criteria
+Steps:
+1. Login as User Learner with the access to the Course in not started status
+2. Open the Course tile
+3. Stay on the course page for 5 seconds, but do not complete the required quiz
+
+Expected result: the status of the course is Started
+Actual result: the status of the course is Completed
